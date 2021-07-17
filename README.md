@@ -1,13 +1,14 @@
 [![Header](https://github.com/roderpad/roderpad/blob/afe5a9c5375bfedb0a67a896165a7d09ae81650b/readme_header.png "Click to goto my website")](https://padenroder.com/aboutme/)
 
 # <img src="https://github.com/roderpad/roderpad/blob/e5dae10ded91da953363f001b8cdb8c7a958f2e2/readme-IntroGif.gif">
-My name is Paden and I'm a tech development & process engineer. I'm originally from Iowa, currently between living in the Portland Area or Bay Area (depending on the day) working at Intel. You can find me on Twitter [![Twitter][1.2]][1], LinkedIn [![LinkedIn][2.2]][2], or occasionally on Twitch [![Twitch][3.2]][3].
+My name is Paden and I'm a tech development & process engineer. I'm originally from Iowa, currently between living in the Portland Area or Bay Area (depending on the day) working at Intel. You can find me on Twitter, LinkedIn, or occasionally on Twitch.  
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Twitch][3.2]][3]
 
 <!-- Icons -->
 
-[1.2]: https://github.com/roderpad/roderpad/blob/2407247f7ed141f88556a0ae8d4f82eaf8288318/icons8-twitter-24.png (Click to goto my Twitter)
-[2.2]: https://github.com/roderpad/roderpad/blob/2407247f7ed141f88556a0ae8d4f82eaf8288318/icons8-linkedin-24.png (Click to goto my LinkedIn)
-[3.2]: https://github.com/roderpad/roderpad/blob/2407247f7ed141f88556a0ae8d4f82eaf8288318/icons8-twitch-24.png (Click to goto my Twitch)
+[1.2]: https://github.com/roderpad/roderpad/blob/ed83a1533cffad73515c6d834ecc9cfea3d90c2b/icons8-twitter-64.png (Click to goto my Twitter)
+[2.2]: https://github.com/roderpad/roderpad/blob/ed83a1533cffad73515c6d834ecc9cfea3d90c2b/icons8-linkedin-64.png (Click to goto my LinkedIn)
+[3.2]: https://github.com/roderpad/roderpad/blob/ed83a1533cffad73515c6d834ecc9cfea3d90c2b/icons8-twitch-64.png (Click to goto my Twitch)
 
 <!-- Links to your social media accounts -->
 
