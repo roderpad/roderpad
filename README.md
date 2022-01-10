@@ -1,7 +1,7 @@
 [![Header](https://github.com/roderpad/roderpad/blob/afe5a9c5375bfedb0a67a896165a7d09ae81650b/readme_header.png "Click to goto my website")](https://padenroder.com/aboutme/)
 
 # <img src="https://github.com/roderpad/roderpad/blob/e5dae10ded91da953363f001b8cdb8c7a958f2e2/readme-IntroGif.gif">
-My name is Paden and I'm a tech development & process engineer. I'm originally from Iowa, currently between living in the Portland Area or Bay Area (depending on the day) working at Intel. You can find me on Twitter, LinkedIn, or occasionally on Twitch.  
+My name is Paden and I'm an applied physicist, software engineer, nanotech engineer, and process development engineer. I'm currently working as a data scientist / machine learning / AI engineer for Intel Corporation with a focus on creating ML utilities to leverage factory data to identify yield-impacting process issues and drive process development. At the end of the day, I really just enjoy tackling challenging problems with others who share my passion; be it hardware, software, or theory. I'm originally from Iowa (Go Hawks!), currently living in Palo Alto. You can find me on Twitter, LinkedIn, or occasionally on Twitch.  
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Twitch][3.2]][3]
 
 <!-- Icons -->
