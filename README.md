@@ -5,7 +5,7 @@ My name is Paden and I'm an applied physicist, software engineer, nanotech engin
 
 At the end of the day, I really just enjoy tackling challenging problems with others who share my passion; be it hardware, software, or theory. I'm originally from Iowa (Go Hawks!), currently living in Palo Alto. You can find me on Twitter, LinkedIn, or occasionally on Twitch.
 
-Note: My activity on GitHub may be sparse due to most of my work being posted to Intel's internal GitLab repo.
+Note: My activity on GitHub may be sparse due to most of my work being posted to Intel's internal GitHub repo.
 
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Twitch][3.2]][3]
 
